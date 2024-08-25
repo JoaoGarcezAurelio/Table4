@@ -1,0 +1,32 @@
+﻿Study_ID,First Author,Year,Country,CountryFlag,Total Score,Percentage_Score,Section 1 - Study Design Score,Section 2 - Implementation - Data Collection Score,Section 3 - Implementation - Data Analysis Score,Classification
+1,Al-Jbouri *,2023,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,7,24,2,2,3,Low
+2,Berry,2016,England,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,12,33,4,6,2,Medium
+3,Clarke,2014,Ireland,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Ireland_%283-2%29.svg/640px-Flag_of_Ireland_%283-2%29.svg.png,11,31,2,6,3,Low
+4,CPPRG,1999,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,14,39,2,9,3,Medium
+5,Cook,2018,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,14,39,2,8,4,Medium
+6,Faria,2012,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,9,25,2,3,4,Low
+7,Gomez,2023,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,21,58,2,9,10,Medium
+8,Haataja,2014,Finland,https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png,13,36,2,8,3,Medium
+9,Hennessey,2020,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,24,67,7,15,2,High
+10,Hirschstein,2007,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,18,50,4,11,3,Medium
+11,Humphrey,2015,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,15,42,5,8,2,Medium
+12,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,23,64,6,15,2,Medium
+13,Kam,2003,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,5,14,0,4,1,Low
+14,Kam,2011,Hong Kong,https://cdn.britannica.com/43/82343-004-93844DE8/Flag-Hong-Kong-province-China.jpg,5,14,1,3,1,Low
+15,Kiviruusu *,2016,Finland,https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Finland.png,8,28,3,3,2,Low
+16,Leadbeater,2016,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,11,31,2,5,2,Low
+17,Leadbeater,2018,Canada,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,15,42,4,8,3,Medium
+18,Low,2014,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,13,36,3,7,3,Medium
+19,Lynch,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,4,11,0,4,0,Low
+20,Mauk,2010,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,8,22,1,5,2,Low
+21,Mokrue *,2005,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,7,24,2,5,0,Low
+22,Panayiotou *,2020,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,22,76,7,6,9,High
+23,Reyes,2012,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,15,42,4,8,3,Medium
+24,Rosenblatt *,2008,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,3,10,1,2,0,Low
+25,Shapiro,2018,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,12,33,1,8,3,Medium
+26,Shum *,2019,Hong Kong,https://cdn.britannica.com/43/82343-004-93844DE8/Flag-Hong-Kong-province-China.jpg,3,10,1,0,2,Low
+27,Swift *,2017,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,6,21,0,3,3,Low
+28,Wu *,2023,Sierra Leone,https://cdn.britannica.com/72/5072-050-823E3632/Flag-Sierra-Leone.jpg,12,41,4,5,3,Medium
+29,Humphrey,2018,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,23,64,7,14,2,Medium
+30,Low,2016,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,14,39,4,8,2,Medium
+31,Low,2015,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,10,28,2,5,3,Low
